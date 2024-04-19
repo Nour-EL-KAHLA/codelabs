@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552522577022",
+    "project_id": "isinews-b23eb",
+    "storage_bucket": "isinews-b23eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552522577022:android:1c59ddc440e8070008d42f",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA82ohZumEJjXiV1nP6PTJzcT-DIBUqGoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
